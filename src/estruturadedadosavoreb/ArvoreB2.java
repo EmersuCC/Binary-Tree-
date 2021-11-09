@@ -9,7 +9,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author lucas
+ *
  */
 class No {
 
